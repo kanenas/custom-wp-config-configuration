@@ -2,7 +2,7 @@
 /**
  * Custom WordPress configurations on "wp-config.php" file.
  *
- * This file has the following configurations: MySQL settings, Table Prefix, Secret Keys, WordPress Language, ABSPATH and more.
+ * This file has the following configurations: MySQL settings, Table Prefix, Secret Keys, WordPress Language, ABSPATH...
  * For more information visit {@link https://codex.wordpress.org/Editing_wp-config.php Editing wp-config.php} Codex page.
  *
  * @package WordPress
